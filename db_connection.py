@@ -5,7 +5,7 @@ import pandas as pd
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "vayu@2510305",
+    "password": "your password",
     "database": "hr_analytics"
 }
 
