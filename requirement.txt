@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+mysql-connector-python
+joblib
+fastapi
+uvicorn[standard]
+pydantic
